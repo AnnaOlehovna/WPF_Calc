@@ -1,4 +1,4 @@
 # WPF_Calc
 Laboratory Work #1
 
- ![](Calculator design.PNG)
+<img src="Calculator design.PNG">
